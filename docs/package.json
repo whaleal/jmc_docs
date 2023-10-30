@@ -1,0 +1,24 @@
+{
+  "name": "jmc_docs",
+  "version": "1.0.0",
+  "description": "JMC DOCS & FAQ",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-toggle-chapters": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whaleal/jmc_docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whaleal/jmc_docs/issues"
+  },
+  "homepage": "https://github.com/whaleal/jmc_docs#readme"
+}

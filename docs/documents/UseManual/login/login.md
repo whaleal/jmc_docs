@@ -1,7 +1,7 @@
 ## 登录
 
 __登录页__
-![img.png](../../images/loginPage.png)
+![img.png](../../../images/loginPage.png)
 
 __用户可以使用两种方式登录JMC发信平台__
 * 邮箱登录

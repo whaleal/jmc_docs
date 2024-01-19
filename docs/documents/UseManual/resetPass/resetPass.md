@@ -2,7 +2,7 @@
 
 __重置密码页面__
 
-![resetPassPage.png](../../images/resetPassPage.png)
+![resetPassPage.png](../../../images/resetPassPage.png)
 
 __用户可通过两种方式重置密码__
 

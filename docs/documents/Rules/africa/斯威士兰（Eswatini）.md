@@ -1,0 +1,31 @@
+## 斯威士兰（Eswatini）
+
+__Swaziland (Eswatini)  斯威士兰（Eswatini）__
+
+| 国家名称           | 国家代码 | MCC(移动国家代码) |
+|----------------|------|-------------|
+| 斯威士兰（Eswatini） | 268  | 653         |
+
+__SenderID规则__
+
+| SenderID类型     | 规则                                                        |
+|----------------|-----------------------------------------------------------|
+| 字母数字混合SenderID | 发件人 ID 区分大小写，并且必须包含品牌名称。*MTN (65310) 网络必须进行预注册。           |
+| 数字SenderID     | 除非 Vonage 的 2-way 服务提供，否则不支持数字发件人 ID 。数字发件人 ID 将被覆盖以确保送达。 |
+| 通用SenderID     | 禁止使用通用发件人 ID，例如 INFO、SMS、NOTICE 等。                        |
+
+
+__营销短信__
+
+MarketingTraffic: Before sending any marketing traffic, opt-in consent is required from handset users.
+营销流量: 在发送任何营销流量之前，需要获得手机用户的选择同意。
+
+
+__附加信息__
+
+禁止 P2P 流量。
+
+不得包含政治、宗教、未经请求的促销或赌博内容。
+
+除了我们的可接受使用政策中的内容限制之外，没有其他内容限制。
+
